@@ -56,8 +56,8 @@ def game_hash
          }
        ]
     },
-    "Charlotte Hornets" => {
-       :status => "away",
+    :away => {
+       :team_name => "Charlotte Hornets",
        :team_colors => ["Turquoise", "Purple"],
        :players => [
          {:name => "Jeff Adrien",
