@@ -1,8 +1,8 @@
 def game_hash
   {
-    "Brooklyn Nets" => {
-       :status => "home",
-       :team_colors => ["Black", "White"],
+    :home => {
+       :team_name => "Brooklyn Nets",
+       :colors => ["Black", "White"],
        :players => [
          {:name => "Brook Lopez",
           :number => 11,
